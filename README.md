@@ -1,2 +1,3 @@
-# project02_pandas-gbq_bigquery
-![MDS](https://github.com/dbtrick/project02_pandas-gbq_bigquery/assets/172040645/87b2f779-13c9-408a-81cf-202bfd5aee3b)
+# Project Data Architecture
+![modern-data-stack (7)](https://github.com/dbtrick/project02_pandas-gbq_bigquery/assets/172040645/ac1f4467-f4b4-42dc-98cb-0e3e6677064d)
+
